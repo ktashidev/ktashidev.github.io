@@ -1,3 +1,2 @@
-# ktashidev.github.io
-Portfolio/Project hosting website
-# -Ktashi
+# AI PROECT
+Scroll down and click "Run"
